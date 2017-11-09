@@ -11,7 +11,7 @@ Putty
 
 OpenCv
 
-##Hardware Used:
+## Hardware Used:
 
 Raspberry Pi
 
