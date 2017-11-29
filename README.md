@@ -16,3 +16,6 @@ OpenCv
 Raspberry Pi
 
 USB Cameras 
+
+# Ref.
+http://www.instructables.com/id/Traffic-Counting-System-Based-on-OpenCV-and-Python/
